@@ -47,3 +47,20 @@ body {
   margin-top: 10px;
   padding: 5px;
 }
+.container input::placeholder {
+  color: #61616196;
+}
+
+.container button {
+  background: #0052e9;
+  color: white;
+  font-size: 1.5em;
+  border: none;
+  border-radius: 4px;
+  padding: 7px 25px;
+  margin: 20px 0 0 0;
+  cursor: pointer;
+}
+.container button:hover {
+  background: #1f62df;
+}
