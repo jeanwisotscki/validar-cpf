@@ -1,3 +1,25 @@
+/* ERROR CLASSES
+*************************************/
+.container input.valido {
+  border: 2px solid rgb(58, 250, 0);
+}
+.container input.error {
+  border: 2px solid rgb(255, 47, 47);
+}
+
+.error-text {
+  display: none;
+  color: rgb(255, 47, 47);
+  font-weight: bold;
+  font-size: 0.9em;
+}
+.error-text.ativo {
+  display: block;
+  margin: 5px;
+}
+
+/* GENERAL STYLES
+*************************************/
 * {
   margin: 0;
   padding: 0;
@@ -52,26 +74,6 @@ body {
 }
 .container input:focus {
   outline: none;
-}
-
-/* ERROR CLASSES
-*************************************/
-.container input.valido {
-  border: 2px solid rgb(58, 250, 0);
-}
-.container input.error {
-  border: 2px solid rgb(255, 47, 47);
-}
-
-.error-text {
-  display: none;
-  color: rgb(255, 47, 47);
-  font-weight: bold;
-  font-size: 0.9em;
-}
-.error-text.ativo {
-  display: block;
-  margin: 5px;
 }
 
 .container button {
