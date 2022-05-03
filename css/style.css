@@ -37,15 +37,15 @@ body {
 }
 
 .container {
-  min-width: 80%;
+  max-width: 980px;
+  width: 80%;
   display: flex;
   align-items: center;
   flex-direction: column;
   background: rgba(255, 255, 255, 0.1);
   box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
   border-radius: 15px;
-  padding: 20px;
-  margin: -100px 0 0 0;
+  padding: 3rem;
 }
 
 .container h1 {
@@ -88,4 +88,11 @@ body {
 }
 .container button:hover {
   background: #1f62df;
+}
+
+@media (max-width: 768px){
+  .container{
+    min-width: 268px;
+    padding: 1rem;
+  }
 }
