@@ -6,7 +6,7 @@
 
 Confira o resultado clicando [aqui](https://jeanwisotscki.github.io/validar-cpf/) (Dica: control + click para abrir o link em uma nova guia. 😉)
 
-# Design
+# Screenshots
 
 ![Desktop](./desktop.png)
 ![Mobile](./mobile.png)
