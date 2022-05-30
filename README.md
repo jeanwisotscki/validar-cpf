@@ -4,7 +4,7 @@
 
 ### Focos de estudo: regex e o uso de classes.
 
-Confira o resultado clicando [aqui](https://jeanwisotscki.github.io/validar-cpf/) (Dica: control + click para abrir o link em uma nova guia. 😉)
+Confira o resultado [clicando aqui](https://jeanwisotscki.github.io/validar-cpf/) (Dica: control + click para abrir o link em uma nova guia. 😉)
 
 # Screenshots
 
